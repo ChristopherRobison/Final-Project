@@ -1,0 +1,34 @@
+header {
+  background-color: #add8e6;
+  border-style: solid;
+  border-color: gray;
+}
+
+h1{
+  font-size: 225%;
+  text-align: center;
+}
+
+td>h2{
+  width: 100px;
+}
+
+h2{
+  font-size: 200%
+}
+
+table{
+  height: 300px
+}
+
+#one, #two, #three, #four, #five, #six, #seven, #eight, #nine, #ten, #eleven, #twelve, #thirteen, #fourteen, #fifteen, #sixteen, #seventeen, #eighteen, #nineteen, #twenty {
+  background-color: #A020F0;
+  width: 20px;
+}
+
+button{
+  position: center;
+  font-size: 150%;
+  height: 165px;
+  width: 100%;
+}
